@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "api.scheme",
+    "type": "java.lang.String",
+    "description": "A description for 'api.scheme'"
+  },
+  {
+    "name": "api.pokemon.host",
+    "type": "java.lang.String",
+    "description": "A description for 'api.pokemon.host'"
+  },
+  {
+    "name": "api.pokemon.ability",
+    "type": "java.lang.String",
+    "description": "A description for 'api.pokemon.ability'"
+  },
+  {
+    "name": "api.pokemon.base-experience",
+    "type": "java.lang.String",
+    "description": "A description for 'api.pokemon.base-experience'"
+  },
+  {
+    "name": "api.pokemon.location-area-encounters",
+    "type": "java.lang.String",
+    "description": "A description for 'api.pokemon.location-area-encounters'"
+  },
+  {
+    "name": "api.pokemon.machines",
+    "type": "java.lang.String",
+    "description": "A description for 'api.pokemon.machines'"
+  }
+]}
