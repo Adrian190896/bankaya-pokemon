@@ -1,0 +1,45 @@
+[ {
+  "id" : 283,
+  "name" : "good-as-gold",
+  "isMainSeries" : true,
+  "effectEntries" : [ ],
+  "pokemon" : [ {
+    "isHidden" : false,
+    "pokemon" : {
+      "name" : "gholdengo",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/pokemon/1000/"
+    },
+    "slot" : 1
+  }, {
+    "isHidden" : true,
+    "pokemon" : {
+      "name" : "gholdengo",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/pokemon/1000/"
+    },
+    "slot" : 3
+  } ]
+}, {
+  "id" : 283,
+  "name" : "good-as-gold",
+  "isMainSeries" : true,
+  "effectEntries" : [ ],
+  "pokemon" : [ {
+    "isHidden" : false,
+    "pokemon" : {
+      "name" : "gholdengo",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/pokemon/1000/"
+    },
+    "slot" : 1
+  }, {
+    "isHidden" : true,
+    "pokemon" : {
+      "name" : "gholdengo",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/pokemon/1000/"
+    },
+    "slot" : 3
+  } ]
+} ]

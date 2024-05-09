@@ -1,0 +1,288 @@
+[ {
+  "item" : {
+    "name" : "moon-stone",
+    "id" : null,
+    "url" : "https://pokeapi.co/api/v2/item/81/"
+  },
+  "versionDetails" : [ {
+    "rarity" : 5,
+    "version" : {
+      "name" : "ruby",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/7/"
+    }
+  }, {
+    "rarity" : 5,
+    "version" : {
+      "name" : "sapphire",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/8/"
+    }
+  }, {
+    "rarity" : 5,
+    "version" : {
+      "name" : "emerald",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/9/"
+    }
+  }, {
+    "rarity" : 5,
+    "version" : {
+      "name" : "firered",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/10/"
+    }
+  }, {
+    "rarity" : 5,
+    "version" : {
+      "name" : "leafgreen",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/11/"
+    }
+  }, {
+    "rarity" : 5,
+    "version" : {
+      "name" : "diamond",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/12/"
+    }
+  }, {
+    "rarity" : 5,
+    "version" : {
+      "name" : "pearl",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/13/"
+    }
+  }, {
+    "rarity" : 5,
+    "version" : {
+      "name" : "platinum",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/14/"
+    }
+  }, {
+    "rarity" : 5,
+    "version" : {
+      "name" : "heartgold",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/15/"
+    }
+  }, {
+    "rarity" : 5,
+    "version" : {
+      "name" : "soulsilver",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/16/"
+    }
+  }, {
+    "rarity" : 5,
+    "version" : {
+      "name" : "black",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/17/"
+    }
+  }, {
+    "rarity" : 5,
+    "version" : {
+      "name" : "white",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/18/"
+    }
+  }, {
+    "rarity" : 5,
+    "version" : {
+      "name" : "black-2",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/21/"
+    }
+  }, {
+    "rarity" : 5,
+    "version" : {
+      "name" : "white-2",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/22/"
+    }
+  }, {
+    "rarity" : 5,
+    "version" : {
+      "name" : "x",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/23/"
+    }
+  }, {
+    "rarity" : 5,
+    "version" : {
+      "name" : "y",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/24/"
+    }
+  }, {
+    "rarity" : 5,
+    "version" : {
+      "name" : "omega-ruby",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/25/"
+    }
+  }, {
+    "rarity" : 5,
+    "version" : {
+      "name" : "alpha-sapphire",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/26/"
+    }
+  }, {
+    "rarity" : 5,
+    "version" : {
+      "name" : "sun",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/27/"
+    }
+  }, {
+    "rarity" : 5,
+    "version" : {
+      "name" : "moon",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/28/"
+    }
+  }, {
+    "rarity" : 5,
+    "version" : {
+      "name" : "ultra-sun",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/29/"
+    }
+  }, {
+    "rarity" : 5,
+    "version" : {
+      "name" : "ultra-moon",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/30/"
+    }
+  } ]
+}, {
+  "item" : {
+    "name" : "leppa-berry",
+    "id" : null,
+    "url" : "https://pokeapi.co/api/v2/item/131/"
+  },
+  "versionDetails" : [ {
+    "rarity" : 50,
+    "version" : {
+      "name" : "ruby",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/7/"
+    }
+  }, {
+    "rarity" : 50,
+    "version" : {
+      "name" : "sapphire",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/8/"
+    }
+  }, {
+    "rarity" : 50,
+    "version" : {
+      "name" : "emerald",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/9/"
+    }
+  }, {
+    "rarity" : 50,
+    "version" : {
+      "name" : "diamond",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/12/"
+    }
+  }, {
+    "rarity" : 50,
+    "version" : {
+      "name" : "pearl",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/13/"
+    }
+  }, {
+    "rarity" : 50,
+    "version" : {
+      "name" : "platinum",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/14/"
+    }
+  }, {
+    "rarity" : 50,
+    "version" : {
+      "name" : "heartgold",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/15/"
+    }
+  }, {
+    "rarity" : 50,
+    "version" : {
+      "name" : "soulsilver",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/16/"
+    }
+  }, {
+    "rarity" : 50,
+    "version" : {
+      "name" : "black",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/17/"
+    }
+  }, {
+    "rarity" : 50,
+    "version" : {
+      "name" : "white",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/18/"
+    }
+  }, {
+    "rarity" : 50,
+    "version" : {
+      "name" : "black-2",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/21/"
+    }
+  }, {
+    "rarity" : 50,
+    "version" : {
+      "name" : "white-2",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/22/"
+    }
+  } ]
+}, {
+  "item" : {
+    "name" : "comet-shard",
+    "id" : null,
+    "url" : "https://pokeapi.co/api/v2/item/624/"
+  },
+  "versionDetails" : [ {
+    "rarity" : 1,
+    "version" : {
+      "name" : "black",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/17/"
+    }
+  }, {
+    "rarity" : 1,
+    "version" : {
+      "name" : "white",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/18/"
+    }
+  }, {
+    "rarity" : 1,
+    "version" : {
+      "name" : "black-2",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/21/"
+    }
+  }, {
+    "rarity" : 1,
+    "version" : {
+      "name" : "white-2",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/22/"
+    }
+  } ]
+} ]

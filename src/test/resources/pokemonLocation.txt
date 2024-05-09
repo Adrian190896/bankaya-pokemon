@@ -1,0 +1,233 @@
+[ {
+  "locationArea" : {
+    "name" : "cerulean-city-area",
+    "id" : null,
+    "url" : "https://pokeapi.co/api/v2/location-area/281/"
+  },
+  "versionDetails" : [ {
+    "encounterDetails" : [ {
+      "chance" : 100,
+      "conditionValues" : [ ],
+      "method" : {
+        "name" : "gift",
+        "id" : null,
+        "url" : "https://pokeapi.co/api/v2/encounter-method/18/"
+      },
+      "minLevel" : 10,
+      "maxLevel" : 10
+    } ],
+    "maxChance" : 100,
+    "version" : {
+      "name" : "yellow",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/3/"
+    }
+  } ]
+}, {
+  "locationArea" : {
+    "name" : "pallet-town-area",
+    "id" : null,
+    "url" : "https://pokeapi.co/api/v2/location-area/285/"
+  },
+  "versionDetails" : [ {
+    "encounterDetails" : [ {
+      "chance" : 100,
+      "conditionValues" : [ ],
+      "method" : {
+        "name" : "gift",
+        "id" : null,
+        "url" : "https://pokeapi.co/api/v2/encounter-method/18/"
+      },
+      "minLevel" : 5,
+      "maxLevel" : 5
+    } ],
+    "maxChance" : 100,
+    "version" : {
+      "name" : "red",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/1/"
+    }
+  }, {
+    "encounterDetails" : [ {
+      "chance" : 100,
+      "conditionValues" : [ ],
+      "method" : {
+        "name" : "gift",
+        "id" : null,
+        "url" : "https://pokeapi.co/api/v2/encounter-method/18/"
+      },
+      "minLevel" : 5,
+      "maxLevel" : 5
+    } ],
+    "maxChance" : 100,
+    "version" : {
+      "name" : "blue",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/2/"
+    }
+  }, {
+    "encounterDetails" : [ {
+      "chance" : 100,
+      "conditionValues" : [ ],
+      "method" : {
+        "name" : "gift",
+        "id" : null,
+        "url" : "https://pokeapi.co/api/v2/encounter-method/18/"
+      },
+      "minLevel" : 5,
+      "maxLevel" : 5
+    } ],
+    "maxChance" : 100,
+    "version" : {
+      "name" : "firered",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/10/"
+    }
+  }, {
+    "encounterDetails" : [ {
+      "chance" : 100,
+      "conditionValues" : [ ],
+      "method" : {
+        "name" : "gift",
+        "id" : null,
+        "url" : "https://pokeapi.co/api/v2/encounter-method/18/"
+      },
+      "minLevel" : 5,
+      "maxLevel" : 5
+    } ],
+    "maxChance" : 100,
+    "version" : {
+      "name" : "leafgreen",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/11/"
+    }
+  }, {
+    "encounterDetails" : [ {
+      "chance" : 100,
+      "conditionValues" : [ {
+        "name" : "story-progress-beat-red",
+        "url" : "https://pokeapi.co/api/v2/encounter-condition-value/55/"
+      } ],
+      "method" : {
+        "name" : "gift",
+        "id" : null,
+        "url" : "https://pokeapi.co/api/v2/encounter-method/18/"
+      },
+      "minLevel" : 5,
+      "maxLevel" : 5
+    } ],
+    "maxChance" : 100,
+    "version" : {
+      "name" : "heartgold",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/15/"
+    }
+  }, {
+    "encounterDetails" : [ {
+      "chance" : 100,
+      "conditionValues" : [ {
+        "name" : "story-progress-beat-red",
+        "url" : "https://pokeapi.co/api/v2/encounter-condition-value/55/"
+      } ],
+      "method" : {
+        "name" : "gift",
+        "id" : null,
+        "url" : "https://pokeapi.co/api/v2/encounter-method/18/"
+      },
+      "minLevel" : 5,
+      "maxLevel" : 5
+    } ],
+    "maxChance" : 100,
+    "version" : {
+      "name" : "soulsilver",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/16/"
+    }
+  } ]
+}, {
+  "locationArea" : {
+    "name" : "lumiose-city-area",
+    "id" : null,
+    "url" : "https://pokeapi.co/api/v2/location-area/779/"
+  },
+  "versionDetails" : [ {
+    "encounterDetails" : [ {
+      "chance" : 100,
+      "conditionValues" : [ ],
+      "method" : {
+        "name" : "gift",
+        "id" : null,
+        "url" : "https://pokeapi.co/api/v2/encounter-method/18/"
+      },
+      "minLevel" : 10,
+      "maxLevel" : 10
+    } ],
+    "maxChance" : 100,
+    "version" : {
+      "name" : "x",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/23/"
+    }
+  }, {
+    "encounterDetails" : [ {
+      "chance" : 100,
+      "conditionValues" : [ ],
+      "method" : {
+        "name" : "gift",
+        "id" : null,
+        "url" : "https://pokeapi.co/api/v2/encounter-method/18/"
+      },
+      "minLevel" : 10,
+      "maxLevel" : 10
+    } ],
+    "maxChance" : 100,
+    "version" : {
+      "name" : "y",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/24/"
+    }
+  } ]
+}, {
+  "locationArea" : {
+    "name" : "alola-route-2-main",
+    "id" : null,
+    "url" : "https://pokeapi.co/api/v2/location-area/1040/"
+  },
+  "versionDetails" : [ {
+    "encounterDetails" : [ {
+      "chance" : 100,
+      "conditionValues" : [ ],
+      "method" : {
+        "name" : "island-scan",
+        "id" : null,
+        "url" : "https://pokeapi.co/api/v2/encounter-method/32/"
+      },
+      "minLevel" : 10,
+      "maxLevel" : 10
+    } ],
+    "maxChance" : 100,
+    "version" : {
+      "name" : "ultra-sun",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/29/"
+    }
+  }, {
+    "encounterDetails" : [ {
+      "chance" : 100,
+      "conditionValues" : [ ],
+      "method" : {
+        "name" : "island-scan",
+        "id" : null,
+        "url" : "https://pokeapi.co/api/v2/encounter-method/32/"
+      },
+      "minLevel" : 10,
+      "maxLevel" : 10
+    } ],
+    "maxChance" : 100,
+    "version" : {
+      "name" : "ultra-moon",
+      "id" : null,
+      "url" : "https://pokeapi.co/api/v2/version/30/"
+    }
+  } ]
+} ]
